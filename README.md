@@ -1,5 +1,13 @@
-### I am Muhammad Ridlo, a student from Bandung Institute of Technology. I am currently studying in electrical engineering bachelor's degree. I like to get more about data science, and i have learned some online courses from websites. It's great to do collaboration.
+### Name : Muhammad Ridlo
+### NIM : 13219009
+
+### Description : I am Muhammad Ridlo, a student from Bandung Institute of Technology. I am currently studying in electrical engineering bachelor's degree. I like to get more about data science, and i have learned some online courses from websites. It's great to do collaboration.
+
 ### Here is my linkedin profile : www.linkedin.com/in/muhammad-ridlo
+### 
+### Recently, i was learning about big data with SQL. I was joining the GCP Event that i learned about SQL using BigQuery. When i was learning it, i found that BigQuery is a big lagless platform to analyze big data. I have not found any lags and error while studying SQL on GCP Event. While i was searching about BigQuery, it is a server-based platform that we could use it mostly for data science and machine learning. Not only developers that use BigQuery, but also researchers, engineers, even students. It is a concern for me to learn big data, which the world is in need to it to analyze and predict. Many big industries uses BigQuery as the core to do analysis and predictions for the companies. As i am interested in data science, Developer Student Club will be a big opportunity for me to improve myself to learn data science and reaching my dream to become a great data scientist
+
+
 <!--
 **muhridlo24/muhridlo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
