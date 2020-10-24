@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### I am Muhammad Ridlo, a student from Bandung Institute of Technology. I am currently studying in electrical engineering bachelor's degree. I like to get more about data science, and i have learned some online courses from websites. It's great to do collaboration.
+### Here is my linkedin profile : www.linkedin.com/in/muhammad-ridlo
 <!--
 **muhridlo24/muhridlo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
