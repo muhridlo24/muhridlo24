@@ -1,11 +1,6 @@
-### Name : Muhammad Ridlo
-### NIM : 13219009
+### I am Muhammad Ridlo, a data science and entrepreneurship enthusiast with a Bachelor of Engineering in Electrical and Electronics Engineering from Institut Teknologi Bandung (ITB), one of the top universities in Indonesia. I am certified in various data science topics by DataCamp, such as machine learning, time series analysis, and supervised learning with scikit-learn. I published a journal article on the influence of slang language among college students in Indonesia, using qualitative analysis with Python.
 
-### Description : I am Muhammad Ridlo, a student from Bandung Institute of Technology. I am currently studying in electrical engineering bachelor's degree. I like to get more about data science, and i have learned some online courses from websites. It's great to do collaboration.
-
-### Here is my linkedin profile : www.linkedin.com/in/muhammad-ridlo
-### 
-### Recently, i was learning about big data with SQL. I was joining the GCP Event that i learned about SQL using BigQuery. When i was learning it, i found that BigQuery is a big lagless platform to analyze big data. I have not found any lags and error while studying SQL on GCP Event. Its server could connect between public web storage and local storage. Moreover, i could build my own datasets with BigQuery.  BigQuery is a server-based platform that we could use it mostly for data science and machine learning. Not only developers that use BigQuery, but also researchers, engineers, even students. It is a concern for me to learn big data, which the world is in need to it to analyze and predict. Many big industries uses BigQuery as the core to do analysis and predictions for the companies. As i am interested in data science, Developer Student Club will be a big opportunity for me to improve myself to learn data science and reaching my dream to become a great data scientist.
+### This github profile is my portfolio, which explains much about my past projects and activities utilizing my hardskills and softskills. You may reach me out if necessary in www.linkedin.com/in/muhammad-ridlo
 
 
 <!--
