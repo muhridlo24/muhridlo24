@@ -1,19 +1,33 @@
-### I am Muhammad Ridlo, a data science and entrepreneurship enthusiast with a Bachelor of Engineering in Electrical and Electronics Engineering from Institut Teknologi Bandung (ITB), one of the top universities in Indonesia. I am certified in various data science topics by DataCamp, such as machine learning, time series analysis, and supervised learning with scikit-learn. I published a journal article on the influence of slang language among college students in Indonesia, using qualitative analysis with Python.
+# Hi there 👋, I'm Muhammad Ridlo  
 
-### This github profile is my portfolio, which explains much about my past projects and activities utilizing my hardskills and softskills. You may reach me out if necessary in www.linkedin.com/in/muhammad-ridlo
+🎓 **Bachelor of Engineering in Electrical and Electronics Engineering**  
+Institut Teknologi Bandung (ITB), one of the top universities in Indonesia.  
 
+💡 **Data Science & Entrepreneurship Enthusiast**  
+I’m passionate about building data-driven solutions and leveraging technology to solve real-world problems.  
 
-<!--
-**muhridlo24/muhridlo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 📊 Certified in **Machine Learning, Time Series Analysis, and Supervised Learning with Scikit-learn** (DataCamp)  
+- 📄 Published a **journal article** on *the influence of slang language among college students in Indonesia*, applying **qualitative analysis with Python**  
+- 🔍 Experienced in **data engineering, predictive modeling, and cloud-based applications**  
+- 🌏 Open to global opportunities in **data science, analytics, and software engineering**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects & Experience
+- **Weld Tracking Application** – Built a comprehensive system for welding, quality, and material traceability in EPC projects (10+ sub-applications)  
+- **API Integrations** – Connected Oracle Primavera & SPSINC APIs into dashboards using **Azure Data Factory & Azure Functions**  
+- **Automation** – Designed an automated bill of quantity generator for EPC material calculations with **Python Django & Azure**  
+- **Analytics Dashboards** – Developed project productivity and progress dashboards with **Power BI & PostgreSQL**  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ridlo)  
+- 💻 [GitHub](https://github.com/muhridlo24)  
+
+---
+
+✨ This GitHub profile is my portfolio — showcasing my journey, projects, and activities that reflect my hard skills and soft skills. Feel free to reach out!  
