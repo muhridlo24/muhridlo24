@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Muhammad Ridlo  
 
 🎓 **Bachelor of Engineering in Electrical and Electronics Engineering**  
-Institut Teknologi Bandung (ITB), one of the top universities in Indonesia.  
+Institut Teknologi Bandung (ITB)
 
 💡 **Data & Software Engineering Enthusiast**  
 I’m passionate about building data-driven solutions and leveraging technology to solve real-world problems.  
