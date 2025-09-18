@@ -20,7 +20,8 @@ I’m passionate about building data-driven solutions and leveraging technology 
 - **Weld Tracking Application** – Built a comprehensive system for welding, quality, and material traceability in EPC projects (10+ sub-applications)  
 - **API Integrations** – Connected Oracle Primavera & SPSINC APIs into dashboards using **Azure Data Factory & Azure Functions**  
 - **Automation** – Designed an automated bill of quantity generator for EPC material calculations with **Python Django & Azure**  
-- **Analytics Dashboards** – Developed project productivity and progress dashboards with **Power BI & PostgreSQL**  
+- **Analytics Dashboards** – Developed project productivity and progress dashboards with **Power BI & PostgreSQL**
+- etc (I might add several past projects here too).
 
 ---
 
